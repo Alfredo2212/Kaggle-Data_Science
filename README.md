@@ -14,3 +14,12 @@ exploratory data analysis and preprocessing to model training and evaluation.
 - Hyperparameter tuning
 - Model ensembling for final prediction
 
+## 2. House Price Prediction
+**Models used**: Ridge regression, XGBoost  
+**Highlights**:
+- Extensive data cleaning and missing value imputation
+- Advanced feature engineering (e.g., label encoding, skew correction)
+- Outlier detection and removal for improved generalization
+- Comparison of baseline models vs regularized regressors
+- Final ensemble blending ridge + XGBoost for better predictive performance
+
